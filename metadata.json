@@ -1,0 +1,6 @@
+{
+  "name": "Coro Regionale Emilia-Romagna - Presenze & Spartiti",
+  "description": "Piattaforma accessibile per coristi e maestro del Coro Regionale dell'Emilia-Romagna per la gestione del calendario prove, presenze per sezione, spartiti digitali e avvisi push.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
